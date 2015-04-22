@@ -1,0 +1,7 @@
+config BITMAIN_ASIC
+	tristate "bitmian asic driver"
+	help
+	  This is bitcoin using bitmain asic.
+
+	  This support is also available as a module.  If so, the module
+	  will be called bitmain asic driver.

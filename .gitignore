@@ -1,0 +1,5 @@
+#ignore .metadata
+./svn/*
+#.gitignore
+#ignore obj and lib file
+*.[oa]
